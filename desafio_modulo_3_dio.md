@@ -96,3 +96,6 @@ Ainda há outros tipos de relacionamento, mas esses são os mais comuns.
 ## Conclusão
 
 A integração com outras tecnologias, como APIs e serviços em nuvem, permite que bancos de dados relacionais sejam mais versáteis e escaláveis. Para desenvolvedores iniciantes, explorar essas novas técnicas e ferramentas no MySQL pode abrir muitas oportunidades e facilitar a construção de aplicações mais robustas e eficientes.
+
+
+Siga-me no X e me dê sua opinião sobre esse artigo: @SouzaCesar55095
