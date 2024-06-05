@@ -101,4 +101,4 @@ A integração com outras tecnologias, como APIs e serviços em nuvem, permite q
 Siga-me no X e me dê sua opinião sobre esse artigo: @SouzaCesar55095
 
 
-Artigo gerado com uso de Inteligência Artificial via ChatGPT e interação humana nas descrições dos exemplos. 
+Artigo gerado com uso de Inteligência Artificial via ChatGPT e interação humana nas explicações dos exemplos. 
