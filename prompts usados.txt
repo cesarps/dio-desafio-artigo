@@ -1,0 +1,12 @@
+Prommpts usados para criação de artigo dia módulo 3
+
+- Gere para mim 10 headlines sobre desenvolvimento estrutural em bancos de dados
+
+- Desenvolva um texto  simples sobre Novas Técnicas de Modelagem de Dados Revolucionam a Estrutura dos Bancos de Dados Relacionais
+
+{Regras}
+>blocos com 5 linhas no máximo
+>criar um texto como se fosse para um desenvolvedor iniciante
+>se possível, usar mysql como padrão 
+
+- Me dê exemplos de relacionamentos estruturais como um para muitos, muitos para muitos, entre outros
